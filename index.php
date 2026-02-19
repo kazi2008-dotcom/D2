@@ -111,7 +111,7 @@
                             <div class="veg-symbol" title="Vegetarian"><div class="veg-dot"></div></div>
                         </div>
                         <h5 class="card-title fw-bold">Kaju Katli</h5>
-                        <p class="text-dark fw-bold mb-1">₹600 <small class="text-muted fw-normal">(500g)</small></p>
+                        <p class="text-dark fw-bold mb-1">₹610 <small class="text-muted fw-normal">(500g)</small></p>
                         <p class="text-muted small">Premium Cashews, Sugar, Saffron.</p>
                         <a href="product-details.php?id=14" class="btn btn-sm btn-success w-100 mt-2">View Details</a>
                     </div>
